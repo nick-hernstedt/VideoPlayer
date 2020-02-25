@@ -10,8 +10,9 @@ This is a custom video palyer. It does the following:
 
 
 ## Technologies
-HTML
-CSS 
-JavaScript
+- Responsive Design
+- HTML
+- CSS 
+-JavaScript
 
 
