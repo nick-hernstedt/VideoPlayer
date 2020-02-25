@@ -13,6 +13,6 @@ This is a custom video palyer. It does the following:
 - Responsive Design
 - HTML
 - CSS 
--JavaScript
+- JavaScript
 
 
